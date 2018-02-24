@@ -57,7 +57,7 @@ $(function () {
 				// delete the whole array.
 				if(!filters[specName].length){
 					delete filters[specName];
-				}
+			}
 
 			}
 
